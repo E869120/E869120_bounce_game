@@ -3,7 +3,7 @@
 
 <br />
 
-## 概要
+## レポジトリの概要
 OpenSiv3D を使っています。
 
 * ソースコード：<code>Main.cpp</code>
